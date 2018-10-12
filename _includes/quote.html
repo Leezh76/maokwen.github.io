@@ -1,0 +1,2 @@
+{% assign random = "now" | date: "%N" | divided_by: 1000 | modulo: site.data.inspirational-quotes.size %}
+{{ site.data.inspirational-quotes[random].quote }}<br>- {{ site.data.inspirational-quotes[random].person }}, <cite>{{ site.data.inspirational-quotes[random].book }}</cite>

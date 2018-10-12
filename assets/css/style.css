@@ -1,0 +1,37 @@
+#container {
+    max-width: 600px;
+    width: 60%;
+}
+
+.toc-post-date {
+    display: block;
+}
+
+@media screen and (max-device-width: 600px) {
+    .container {
+        width: 90%;
+    }
+    .toc-post-date {
+        display: none;
+    }
+}
+
+@media screen and (max-device-width: 400px) {
+    .container {
+        width: auto;
+    }
+    .toc-post-date {
+        display: none;
+    }
+}
+
+body {
+    font-family: monospace;
+    font-size: 1.2rem;
+    background-color: #FFFFE6;
+    background-image: url("/assets/img/texture.png")
+}
+
+img {
+    max-width: 100%;
+}

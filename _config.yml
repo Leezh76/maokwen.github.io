@@ -1,0 +1,12 @@
+title:    "Voyager's log"
+author:
+  name:   'Maokwen'
+  email:  'maokwen@gmail.com'
+  github: 'https://github.com/MaoKwen'
+
+url: '/'
+rss:     '/feed.xml'
+
+markdown: kramdown
+permalink: pretty
+safe: true
