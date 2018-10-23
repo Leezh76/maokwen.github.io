@@ -7,7 +7,7 @@ layout: default
 <tr>
   <td>
     <center>
-        <img src="/assets/img/avatar.png" alt="avatar">
+        <img src="/assets/images/avatar.png" alt="avatar">
     </center>
   </td>
 </tr>
@@ -23,12 +23,19 @@ layout: default
           </td>
           <td align="right">
             <small class="toc-post-date">
-              ...{{ post.date | date: "%b %d, %Y" }}
+              ......{{ post.date | date: "%b %d, %Y" }}
             </small>
           </td>
         </tr>
         {% endfor %}
       </table>
     </center>
+  </td>
+</tr>
+
+<tr>
+  <td align="right">
+    <hr>
+    <a href="{{ site.path }}/about/">About</a>
   </td>
 </tr>

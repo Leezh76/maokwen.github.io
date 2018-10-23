@@ -4,9 +4,12 @@ author:
   email:  'maokwen@gmail.com'
   github: 'https://github.com/MaoKwen'
 
-url: '/'
+url:     '/'
 rss:     '/feed.xml'
 
 markdown: kramdown
-permalink: pretty
+permalink: ':year-:month-:day-:title/'
 safe: true
+
+kramdown:
+  input: GFM
