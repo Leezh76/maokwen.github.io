@@ -23,7 +23,7 @@
 }
 
 body {
-  font-family: monospace;
+  font-family: serif, monospace;
   font-size: 1.2rem;
   background-color: #ffffe6;
   background-image: url("/assets/images/texture.png");
