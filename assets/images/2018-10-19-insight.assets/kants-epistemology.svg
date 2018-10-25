@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="461.2" height="172">
+  <path fill="#fff" d="M106 10h58l10 10v116h-68V10"/>
+  <path fill="none" stroke="#000" d="M106 10h58l10 10v116h-68V10" stroke-miterlimit="10"/>
+  <path fill="none" stroke="#000" d="M164 10v10h10l-10-10M291 74h87" stroke-miterlimit="10"/>
+  <path d="M367.8 78.2L378 74l-10.2-4.2"/>
+  <path fill="none" stroke="#000" d="M367.8 78.2L378 74l-10.2-4.2v8.4" stroke-miterlimit="10"/>
+  <text font-family="Arial" font-size="13" x="366.5" y="836.5" transform="translate(-38 -766)">
+    统觉
+  </text>
+  <path fill="#fff" d="M218 58h73.2v32H218z"/>
+  <path fill="none" stroke="#000" d="M218 58h73.2v32H218V58z" stroke-miterlimit="10"/>
+  <text font-family="Arial" font-size="13" x="279.6" y="846.5" transform="translate(-38 -766)">
+    直观
+  </text>
+  <path fill="#fff" d="M194 10h120v128H194z"/>
+  <path fill="none" stroke="#000" d="M194 10h120v128H194V10z" stroke-miterlimit="10"/>
+  <path fill="#fff" d="M10 58h73.2v32H10z"/>
+  <path fill="none" stroke="#000" d="M10 58h73.2v32H10V58z" stroke-miterlimit="10"/>
+  <text font-family="Arial" font-size="13" x="71.6" y="846.5" transform="translate(-38 -766)">
+    现象
+  </text>
+  <path fill="#fff" d="M218 82h73.2v32H218z"/>
+  <path fill="none" stroke="#000" d="M218 82h73.2v32H218V82z" stroke-miterlimit="10"/>
+  <text font-family="Arial" font-size="13" x="279.6" y="870.5" transform="translate(-38 -766)">
+    形式
+  </text>
+  <path fill="none" stroke="#000" d="M84 82q70 16 133 16" stroke-miterlimit="10"/>
+  <path d="M206.8 102.2L217 98l-10.2-4.2"/>
+  <path fill="none" stroke="#000" d="M206.8 102.2L217 98l-10.2-4.2v8.4" stroke-miterlimit="10"/>
+  <text font-family="Arial" font-size="13" x="165.5" y="876.5" transform="translate(-38 -766)">
+    直觉
+  </text>
+  <path fill="#fff" d="M218 34h73.2v32H218z"/>
+  <path fill="none" stroke="#000" d="M218 34h73.2v32H218V34z" stroke-miterlimit="10"/>
+  <text font-family="Arial" font-size="13" x="279.6" y="822.5" transform="translate(-38 -766)">
+    质料
+  </text>
+  <path fill="none" stroke="#000" d="M84 66q70-16 133-16" stroke-miterlimit="10"/>
+  <path d="M206.8 54.2L217 50l-10.2-4.2"/>
+  <path fill="none" stroke="#000" d="M206.8 54.2L217 50l-10.2-4.2v8.4" stroke-miterlimit="10"/>
+  <text font-family="Arial" font-size="13" x="166.5" y="815.5" transform="translate(-38 -766)">
+    感觉
+  </text>
+  <text font-family="Arial" font-size="13" x="165" y="922" transform="translate(-38 -766)">
+    感性
+  </text>
+  <text font-family="Arial" font-size="13" x="277" y="922" transform="translate(-38 -766)">
+    直观
+  </text>
+  <path fill="#fff" d="M378 58h73.2v32H378z"/>
+  <path fill="none" stroke="#000" d="M378 58h73.2v32H378V58z" stroke-miterlimit="10"/>
+  <text font-family="Arial" font-size="13" x="439.6" y="846.5" transform="translate(-38 -766)">
+    概念
+  </text>
+  <text font-family="Arial" font-size="13" x="373" y="922" transform="translate(-38 -766)">
+    悟性
+  </text>
+  <text font-family="Arial" font-size="13" x="437" y="922" transform="translate(-38 -766)">
+    思维
+  </text>
+</svg>
